@@ -12,7 +12,7 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--preto);
+    background-color: var(--cartao-verso);
     width:100%;
     text-align: center;
 }
