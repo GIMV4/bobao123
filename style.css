@@ -26,5 +26,5 @@ footer{
 .cartao{
     background-color: var(--cartao-frente);
     flex-grow: 1;
-    flex-grow: calc(33% - 6rem);
+    flex-basis: calc(33% - 6rem);
 }
