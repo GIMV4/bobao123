@@ -24,11 +24,23 @@ footer{
     flex-wrap: wrap;
 }
 .cartao{
-    color: white;
-    background-color: var(--cartao-frente);
-    padding: 15px;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
    height: 20rem;
    margin: 1rem;
+}
+.conteudo-cartao{
+    background-color: var(--cartao-frente);
+    height: 100%;
+    text-align: center;
+}
+.conteudo-cartao{
+    position: absolute;
+    text-align: left;
+    color: var(--destaque);
+    border:1px solid var(--destaque);
+    border-radius: 3rem;
+    margin: 0.6rem;
+    padding:0.6rem;
+    font-size: 1vw;
 }
