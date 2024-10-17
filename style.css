@@ -34,7 +34,7 @@ footer{
     height: 100%;
     text-align: center;
 }
-.conteudo-cartao{
+.conteudo-cartao h3{
     position: absolute;
     text-align: left;
     color: var(--destaque);
