@@ -17,3 +17,6 @@ footer{
     text-align: center;
     color: var(--branco);
 }
+#container{
+    padding: 2rem;
+}
