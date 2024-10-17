@@ -47,5 +47,17 @@ footer{
 .conteudo-cartao p{
     font-size: 1.4vw;
     margin: 4rem;
+    paddin: 2rem;
+}
+.conteudo-cartao p{
+    font-size: 1.4vw;
+    margin-top: 4rem;
     padding: 2rem;
+}
+.pergunta-cartao{
+    font-weight: 500;
+}
+.resposta-carto{
+    font-weight: 700;
+    color: var(--destaque);
 }
