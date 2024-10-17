@@ -24,7 +24,7 @@ footer{
     flex-wrap: wrap;
 }
 .cartao{
+    color: white;
     background-color: var(--cartao-frente);
-    flex-grow: 1;
+    flex-grow: 1;    
     flex-basis: calc(33% - 6rem);
-}
