@@ -3,8 +3,8 @@
     --cartao-frente: #8B0000;
     --cartao-verso: #FF0000;
     --destaque: #FF8C00;
-    --preto: #0000;
-    --branco: #fff;
+    --preto: #000000;
+    --branco: #ffffff;
 }
 
 body {
@@ -31,4 +31,9 @@ footer {
     padding: 40px;
     display: grid;
     gap: 2rem;kijh
+}
+.cartao{
+    background-color: var(--cartao-frente: #8B0000);
+    padding: 40px;
+    box-shadow: 5px 5px 5px var(--preto)
 }
