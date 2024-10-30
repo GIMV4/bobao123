@@ -14,7 +14,7 @@ header{
     padding: 2rem;
     display: flex;
     justify-content: space-around;
-    background-color: var(--preto);
+    background-color: black;
 }
 header a{
     color: var(--destaque);
