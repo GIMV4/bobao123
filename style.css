@@ -17,7 +17,7 @@ header{
     background-color: var(--preto);
 }
 header a{
-    color: var(--destaque)
+    color: var(--destaque);
 }
 footer {
     position: fixed;
