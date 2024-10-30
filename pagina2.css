@@ -27,3 +27,8 @@ footer {
     text-align: center;
     color: var(--branco);
 }
+#container{
+    padding: 40px;
+    display: grid;
+    gap: 2rem;kijh
+}
