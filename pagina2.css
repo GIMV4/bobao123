@@ -35,5 +35,5 @@ footer {
 .cartao{
     background-color: var(--cartao-frente: #8B0000);
     padding: 40px;
-    box-shadow: 5px 5px 5px var(--preto)
+    box-shadow: 1px 3px 5px var(--preto)
 }
