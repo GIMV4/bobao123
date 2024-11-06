@@ -17,12 +17,12 @@ container.appendChild(cartao);
 }
 
 function mostraCartao(card){
-    const resposta = card.querySelector('resposta-cartao');
+    const resposta = card.querySelector('.resposta-cartao');
     if(resposta.style.display==='nome'){
         resposta.style.display='block';
     }
         else{
-            resposta.style.display='nome'
+            resposta.style.display='nome';
         }
     
 }
